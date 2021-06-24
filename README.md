@@ -17,11 +17,11 @@ Hence, the management has decided to create a library of Web components using An
 
 As a Frontend Developer at Texas Technologies Limited, you are assigned to do the following:
 
-### [Task 1](./Task1-MasnoryLayoutComponent/README.md) :: Consuming MasonryGrid Component in Keep App
+#### [Task 1](./Task1-MasnoryLayoutComponent/README.md) :: Consuming MasonryGrid Component in Keep App
 
-### [Task 2](./Task2-KeepNoteApp/README.md) :: Develop, Test and Publish Angular Component to npm registry
+#### [Task 2](./Task2-KeepNoteApp/README.md) :: Develop, Test and Publish Angular Component to npm registry
 
-### [Task 3](./Task3-ImageGramApp/README.md) :: Consuming MasonryGrid Component in Imagegram App 
+#### [Task 3](./Task3-ImageGramApp/README.md) :: Consuming MasonryGrid Component in Imagegram App 
 
    
 

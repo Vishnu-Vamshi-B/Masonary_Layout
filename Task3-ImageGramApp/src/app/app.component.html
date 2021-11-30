@@ -1,3 +1,8 @@
 <header>
-    <h1>Imagegram App</h1>
+  <h1>{{title}}</h1>
 </header>
+<div class="row">
+  <div class="column" *ngFor="let img of images">
+    <img src="{{img.imageUrl}}" alt="">
+  </div>
+</div>
